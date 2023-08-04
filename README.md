@@ -6,6 +6,7 @@ This project aims to investigate the factors influencing the gender wage gap acr
 The datasets used in this project were gathered from the official OECD website and WorldBank Gender Statistics database.
 
 **Steps Involved**
+
 Data Pre-processing: This involved handling missing values, cleaning and filtering the data, and handling outliers.
 
 Exploratory Data Analysis (EDA): This involved detecting problems in the data, exploring the features and their collinearity, and evaluating if the data is appropriate for the research question.

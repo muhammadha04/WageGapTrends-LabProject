@@ -1,11 +1,12 @@
-Exploring the Evolution of Gender Wage Gap Trends: The Impact of Health, Education, Demographics, and Labor Market Factors
+**Exploring the Evolution of Gender Wage Gap Trends: The Impact of Health, Education, Demographics, and Labor Market Factors**
+
 This project aims to investigate the factors influencing the gender wage gap across various OECD countries. Our research question is "How have the gender wage gap trends evolved over time, and can we use machine learning to attribute these changes to shifts in health, education, demographics, or labor market factors?"
 
-**Datasets Used
-**The datasets used in this project were gathered from the official OECD website and WorldBank Gender Statistics database.
+**Datasets Used**
+The datasets used in this project were gathered from the official OECD website and WorldBank Gender Statistics database.
 
-**Steps Involved
-**Data Pre-processing: This involved handling missing values, cleaning and filtering the data, and handling outliers.
+**Steps Involved**
+Data Pre-processing: This involved handling missing values, cleaning and filtering the data, and handling outliers.
 
 Exploratory Data Analysis (EDA): This involved detecting problems in the data, exploring the features and their collinearity, and evaluating if the data is appropriate for the research question.
 
